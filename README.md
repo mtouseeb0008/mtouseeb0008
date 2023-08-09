@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD TOUSEEB</h1>
 <h3 align="center">"🌐 Crafting Seamless Experiences in Code|⛓️ Uniting Blocks for a Decentralized Tomorrow | Full Stack Developer in MERN(MongoDB, Express.js, React, Node.js) with a Blockchain Heart 💻"</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtouseeb0008&label=Profile%20views&color=0e75b6&style=flat" alt="mtouseeb0008" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://write.geeksforgeeks.org/my-picked-articles](https://write.geeksforgeeks.org/my-picked-articles)
 
-- 💬 Ask me about **Javascript React**
+- 💬 Ask me about **Javascript , React & Blockchain**
 
 - 📫 How to reach me **touseeb1001bbk@gmail.com**
 
@@ -35,3 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtouseeb0008&show_icons=true&locale=en" alt="mtouseeb0008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtouseeb0008&" alt="mtouseeb0008" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mtouseeb0008&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/mtouseeb0008/mtouseeb0008/blob/output/github-contribution-grid-snake.svg)
+
