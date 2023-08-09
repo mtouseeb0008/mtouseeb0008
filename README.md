@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD TOUSEEB</h1>
 <h3 align="center">"🌐 Crafting Seamless Experiences in Code|⛓️ Uniting Blocks for a Decentralized Tomorrow | Full Stack Developer in MERN(MongoDB, Express.js, React, Node.js) with a Blockchain Heart 💻"</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*AqTxUNoGZxZdH7PoE44dQw.gif">
+<img align="right" alt="Coding" width="400" src="https://www.arenaslg.com/wp-content/uploads/2020/05/programmer-desk_1302-14802.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtouseeb0008&label=Profile%20views&color=0e75b6&style=flat" alt="mtouseeb0008" /> </p>
 
