@@ -1,4 +1,3 @@
-[![MasterHead](https://https://besthqwallpapers.com/Uploads/9-6-2022/198603/thumb2-github-3d-logo-4k-gray-brickwall-creative-social-networks.jpg)]
 <h1 align="center">Hi 👋, I'm MD TOUSEEB</h1>
 <h3 align="center">"🌐 Crafting Seamless Experiences in Code|⛓️ Uniting Blocks for a Decentralized Tomorrow | Full Stack Developer in MERN(MongoDB, Express.js, React, Node.js) with a Blockchain Heart 💻"</h3>
 
