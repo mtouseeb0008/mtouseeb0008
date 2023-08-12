@@ -4,8 +4,9 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtouseeb0008&label=Profile%20views&color=0e75b6&style=flat" alt="mtouseeb0008" /> </p>
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtouseeb0008" alt="mtouseeb0008" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtouseeb0008&theme=algolia" alt="mtouseeb0008" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain Development.**
 
