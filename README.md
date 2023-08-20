@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AkshayAnil1080/AkshayAnil1080/blob/master/readme.gif">
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Touseeb</h1>
 <h3 align="center">"🌐 Crafting Seamless Experiences in Code|⛓️ Uniting Blocks for a Decentralized Tomorrow | Full Stack Developer in MERN(MongoDB, Express.js, React, Node.js) with a Blockchain Heart 💻"</h3>
 <!-- <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
