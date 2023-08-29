@@ -14,8 +14,6 @@
 
 - 🤝 I’m looking for a new role **Software Engineer.**
 
-- 📝 I regularly write articles on [https://write.geeksforgeeks.org/my-picked-articles](https://write.geeksforgeeks.org/my-picked-articles)
-
 - 💬 Ask me about **Javascript , React & Blockchain.**
 
 - 📫 How to reach me **touseeb1001bbk@gmail.com**
