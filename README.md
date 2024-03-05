@@ -19,9 +19,9 @@
 - 📫 How to reach me **touseeb1001bbk@gmail.com**
 
 - ⚡ Fun fact **I love playing cricket**
-<br><br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-<br><br>
+    <br><br>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to         meet you more!</b> :blush:</em>
+    <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-touseeb1001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-touseeb1001/" height="30" width="40" /></a>
@@ -44,3 +44,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mtouseeb0008&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<h4 align="center">Thanks for Visiting! 😇</h4>
