@@ -50,4 +50,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=codeSTACKr&repo=Solidity-crowdfunding)](https://github.com/mtouseeb0008/Solidity-crowdfunding.git)
 
 
-<h4 align="center">Thanks for Visiting! 😇</h4>
+<h2 align="center">Thanks for Visiting! 😇</h2>
