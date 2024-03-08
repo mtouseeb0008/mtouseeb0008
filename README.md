@@ -43,6 +43,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtouseeb0008&theme=tokyonight" alt="mtouseeb0008" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mtouseeb0008&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mtouseeb0008&limit=5&theme==vision-friendly-dark&card_width=750_all_yearly_contributions=true)
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
