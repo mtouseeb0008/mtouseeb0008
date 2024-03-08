@@ -42,7 +42,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtouseeb0008&theme=tokyonight" alt="mtouseeb0008" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mtouseeb0008&limit=5&theme=tokyonightall_yearly_contributions=true)
+![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondosaabed&show_icons=true&theme=codeSTACKr&card_width=800)         
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaabed&layout=donut&theme=vision-friendly-dark&card_width=750)](https://github.com/sondosaabed?tab=repositories)
+
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
