@@ -38,7 +38,7 @@
 ![Touseeb GitHub stats](https://github-readme-stats.vercel.app/api?username=mtouseeb0008&show_icons=true&theme=vision-friendly-dark&card_width=800)         
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtouseeb0008&layout=donut&theme=vision-friendly-dark&card_width=750)](https://github.com/mtouseeb0008?tab=repositories)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtouseeb0008&theme=vision-friendly-dark" alt="mtouseeb0008" /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtouseeb0008&theme=vision-friendly-dark" alt="mtouseeb0008" /></p>
 
 
 <div align=center>
