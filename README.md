@@ -38,18 +38,13 @@
 ![Touseeb GitHub stats](https://github-readme-stats.vercel.app/api?username=mtouseeb0008&show_icons=true&theme=vision-friendly-dark&card_width=800)         
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtouseeb0008&layout=donut&theme=vision-friendly-dark&card_width=750)](https://github.com/mtouseeb0008?tab=repositories)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtouseeb0008&theme=tokyonight" alt="mtouseeb0008" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtouseeb0008&theme=vision-friendly-dark" alt="mtouseeb0008" /></p>
 
 
 
  <h1 align=center>🧠 Additional Pins! (Project Repo)🎯 🫀</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=Decentralized_G-drive)](https://github.com/mtouseeb0008/Decentralized_G-drive.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=application)](https://github.com/mtouseeb0008/application.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=BERN-Application)](https://github.com/mtouseeb0008/BERN-Application.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=GFG-LEET-DSA-QUESTION)](https://github.com/mtouseeb0008/GFG-LEET-DSA-QUESTION.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=ResoTech_Solutions_intern)](https://github.com/mtouseeb0008/ResoTech_Solutions_intern.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=Solidity-crowdfunding)](https://github.com/mtouseeb0008/Solidity-crowdfunding.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=Decentralized_G-drive)](https://github.com/mtouseeb0008/Decentralized_G-drive.git)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=application)](https://github.com/mtouseeb0008/application.git)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=BERN-Application)](https://github.com/mtouseeb0008/BERN-Application.git)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=GFG-LEET-DSA-QUESTION)](https://github.com/mtouseeb0008/GFG-LEET-DSA-QUESTION.git)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=ResoTech_Solutions_intern)](https://github.com/mtouseeb0008/ResoTech_Solutions_intern.git)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=Solidity-crowdfunding)](https://github.com/mtouseeb0008/Solidity-crowdfunding.git)
 
 
 <h2 align="center">Thanks for Visiting! 😇</h2>
