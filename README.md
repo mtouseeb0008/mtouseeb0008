@@ -48,7 +48,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=application)](https://github.com/mtouseeb0008/application.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=BERN-Application)](https://github.com/mtouseeb0008/BERN-Application.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=GFG-LEET-DSA-QUESTION)](https://github.com/mtouseeb0008/GFG-LEET-DSA-QUESTION.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=ResoTech_Solutions_intern)](https://github.com/mtouseeb0008/ResoTech_Solutions_intern.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtouseeb0008&theme=vision-friendly-dark&repo=Solidity-crowdfunding)](https://github.com/mtouseeb0008/Solidity-crowdfunding.git)
 </div>
 
